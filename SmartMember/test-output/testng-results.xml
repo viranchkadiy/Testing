@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110506" started-at="2019-12-26T05:34:22Z" finished-at="2019-12-26T05:36:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110506" started-at="2019-12-26T05:34:22Z" finished-at="2019-12-26T05:36:12Z">
+      <class name="SmartMember">
+        <test-method status="PASS" signature="login()[pri:0, instance:SmartMember@4cc0edeb]" name="login" is-config="true" duration-ms="9210" started-at="2019-12-26T11:04:22Z" finished-at="2019-12-26T11:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:SmartMember@4cc0edeb]" name="loginTest" duration-ms="101260" started-at="2019-12-26T11:04:31Z" finished-at="2019-12-26T11:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- SmartMember -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
